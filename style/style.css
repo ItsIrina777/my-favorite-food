@@ -9,12 +9,12 @@
 }
 .dishes-item {
     width: 300px;
-    box-shadow: 2px 2px 5px pink;
+    box-shadow: 2px 2px 5px rgb(159, 62, 78);
 }
 img {
     display:block;
     width: 100%;
 }
 body {
- background-image: linear-gradient(to right, coral, pink, violet, blue, skyblue);
+ background-image: linear-gradient(to right, peachpuff, beige, antiquewhite, peachpuff);
 }
